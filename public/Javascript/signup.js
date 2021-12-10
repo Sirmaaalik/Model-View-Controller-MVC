@@ -1,7 +1,4 @@
 //Sign up form handler
-
-//
-
 async function signupFormHandler(event) {
     event.preventDefault();
   
@@ -35,7 +32,3 @@ async function signupFormHandler(event) {
 }
   
 document.querySelector('.signup-form').addEventListener('submit', signupFormHandler);
-
-
-
-
