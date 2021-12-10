@@ -1,5 +1,5 @@
 {
-  "name": "mvc-tech-blog",
+  "name": "model-view-controller",
   "version": "1.0.0",
   "description": "A blog style website where developers can create an account, edit info, post and comment.",
   "main": "server.js",
